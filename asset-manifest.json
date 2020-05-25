@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jwayorn/Robot-have-name/static/css/main.529b377a.chunk.css",
+    "main.js": "/jwayorn/Robot-have-name/static/js/main.8d7dfc61.chunk.js",
+    "main.js.map": "/jwayorn/Robot-have-name/static/js/main.8d7dfc61.chunk.js.map",
+    "runtime-main.js": "/jwayorn/Robot-have-name/static/js/runtime-main.f3f8a086.js",
+    "runtime-main.js.map": "/jwayorn/Robot-have-name/static/js/runtime-main.f3f8a086.js.map",
+    "static/js/2.7aaef059.chunk.js": "/jwayorn/Robot-have-name/static/js/2.7aaef059.chunk.js",
+    "static/js/2.7aaef059.chunk.js.map": "/jwayorn/Robot-have-name/static/js/2.7aaef059.chunk.js.map",
+    "index.html": "/jwayorn/Robot-have-name/index.html",
+    "precache-manifest.1b1ce918381ac974fc4546689d05901d.js": "/jwayorn/Robot-have-name/precache-manifest.1b1ce918381ac974fc4546689d05901d.js",
+    "service-worker.js": "/jwayorn/Robot-have-name/service-worker.js",
+    "static/css/main.529b377a.chunk.css.map": "/jwayorn/Robot-have-name/static/css/main.529b377a.chunk.css.map",
+    "static/js/2.7aaef059.chunk.js.LICENSE.txt": "/jwayorn/Robot-have-name/static/js/2.7aaef059.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3f8a086.js",
+    "static/js/2.7aaef059.chunk.js",
+    "static/css/main.529b377a.chunk.css",
+    "static/js/main.8d7dfc61.chunk.js"
+  ]
+}
